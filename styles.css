@@ -1,0 +1,17 @@
+body,
+html {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.colors-body {
+  display: flex;
+  height: 100vh;
+  flex-wrap: wrap;
+}
+
+.colors {
+  height: 20%;
+  width: 20%;
+}
